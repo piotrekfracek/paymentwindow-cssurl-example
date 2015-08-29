@@ -86,6 +86,7 @@
 .mobilenumber_label
 {
 	width:130px !important;
+	color: red  !important;
 }
 
 .mobilepayment_error
